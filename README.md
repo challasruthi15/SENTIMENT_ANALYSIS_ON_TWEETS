@@ -1,6 +1,6 @@
 # Sentiment Analysis on Tweets
 
-![Status badge](https://img.shields.io/badge/Status-Archived-important)
+
 
 
 ## Dataset Information
